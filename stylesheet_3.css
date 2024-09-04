@@ -1,0 +1,83 @@
+header{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: inherit;
+    color: rgb(0, 0, 0);
+    background-color: rgb(53, 126, 63);
+    padding: 10px 10px 20px 20px;
+    background-image: url("Module3/placeholder images/sharon-mccutcheon-unsplash.jpg");
+    background-repeat: no-repeat;
+
+}
+body{
+    background-color:rgb(134, 156, 165);
+}
+.content-wrapper{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.panda{
+    height: 500px;
+    width: 500px;
+    position: center;
+    
+}
+.row{
+    text-align: center;
+    margin-inline: 50px;
+}
+
+.resume{
+    padding: 10px 10px 10px 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(134, 156, 165);
+}
+section{
+    padding: 10px 10px 10px 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100px;
+}
+p{
+    font-size: 18px;
+}
+h1{
+    text-align: left;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: white;
+    background-color: rgb(72, 85, 131);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 22px;
+}
+h4{
+    font-size: 20px;
+    font-style: italic;
+}
+h5{
+    font-size: 25px;
+    font-style: italic;
+}
+button{
+    background-color:  rgb(133, 172, 165);
+}
+footer{
+    background-color: rgb(44, 51, 76);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white
+}
+a:link, a:visited{
+    color: rgb(122, 97, 164);
+}
+a:hover{
+    color: rgb(150, 216, 193);
+}
